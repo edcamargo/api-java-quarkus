@@ -1,2 +1,3 @@
-backend\GreetingResource.class
+backend\Entities\User.class
+backend\Resources\UserResource.class
 META-INF\panache-archive.marker
