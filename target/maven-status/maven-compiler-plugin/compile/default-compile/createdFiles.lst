@@ -1,3 +1,4 @@
+backend\Services\Implements\UserServiceImpl.class
+META-INF\panache-archive.marker
 backend\Entities\User.class
 backend\Resources\UserResource.class
-META-INF\panache-archive.marker

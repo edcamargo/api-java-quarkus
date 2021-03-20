@@ -12,10 +12,10 @@ public class User extends PanacheEntity {
     @NotEmpty(message = "Nome não pode ser vazio")
     public String name;
 
-    @NotEmpty(message = "Nome não pode ser vazio")
+    @NotEmpty(message = "E-mail não pode ser vazio")
     public String email;
 
-    @NotEmpty(message = "Nome não pode ser vazio")
+    @NotEmpty(message = "Password não pode ser vazio")
     public String password;
 
     public static User findByName(String name){
